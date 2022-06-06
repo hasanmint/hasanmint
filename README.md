@@ -16,11 +16,11 @@ I’m a MERN Stack Developer who is passionate about making error-free websites 
 ✅ MongoDB <br>
 ✅ Others WordPress
 
-## 📧 For contact 
+## 📧 For contact:
 ✅  ► hasanmint73@gmail.com
 
 
-### connect with social
+## 👇 Social Connect:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hasanmint)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-hasan-ali-928184b6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hasanmint)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hasanmint73/)  
 
