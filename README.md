@@ -1,5 +1,5 @@
 ## Hi, I'm Md. Hasan Ali 👋
-### MERN Stack Developer
+### Web Developer
 <p>
 🖊️ Love to write code <br> 
 🎤 Like to learn more and more </p> 
@@ -10,6 +10,7 @@ I’m a MERN Stack Developer who is passionate about making error-free websites 
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ HTML5 / CSS/Bootstrap/Tailwind <br> 
+✅ Laravel  <br>
 ✅ REACT JS  <br>
 ✅ Express JS <br>
 ✅ Node JS <br>
